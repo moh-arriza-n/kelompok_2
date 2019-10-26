@@ -522,13 +522,13 @@ h3.title-w3-agileits:after{
 	margin:0 auto;
 }
 .stats{
-	 background: url(../images/wallhaven-12018.jpg) no-repeat 0px 0px;
+	 background: url(../images/about3.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     -moz-background-size: cover;
-    min-height: 300px;
+    min-height: 500px;
     text-align: center;
 }
 /*-- //stats --*/
